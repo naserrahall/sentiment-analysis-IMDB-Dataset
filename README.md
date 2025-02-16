@@ -2,7 +2,8 @@
 
 ## Project Description
 
-This project classifies IMDb movie reviews as positive or negative using natural language processing (NLP) and machine learning. It involves data cleaning, text preprocessing (tokenization, stemming, lemmatization, stopword removal), and feature extraction using TF-IDF and Count Vectorization. Multiple classifiers, including Logistic Regression, Random Forest, Naïve Bayes, and K-Nearest Neighbors, were trained and evaluated. Hyperparameter tuning was applied to optimize performance, and models were assessed using accuracy, F1-score, and confusion matrices. The project demonstrates expertise in NLP, machine learning, and model evaluation for sentiment classification tasks.
+This project focuses on sentiment analysis of IMDb movie reviews. It involves data cleaning, text processing, and using machine learning algorithms and language processing (NLP) techniques to classify sentiment as positive or negative.
+
 
 ## Contents
 
