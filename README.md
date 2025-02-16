@@ -1,4 +1,4 @@
-# Sentiment Analysis Project using IMDB Dataset
+# Sentiment Analysis using IMDB Dataset
 
 ## Project Description
 
